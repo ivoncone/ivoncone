@@ -10,10 +10,10 @@
 class BackendDeveloper:
 
     def __init__(self):
-        self.name = "Ivonne Cordero"
-        self.role = "Backend developper"
-        self.base_profession = "Business Admnistration"
-        self.language_spoken = ["zh_CN", "en_US"]
+        self.name = 'Ivonne Cordero'
+        self.role = 'Backend developper'
+        self.base_profession = 'Business Admnistration'
+        self.language_spoken = [ 'en_us', 'es_mx', 'fr-fr']
    
    def my_day(self):
     self.working = ['coffeeshop', 'clothinstore', 'magazine']
