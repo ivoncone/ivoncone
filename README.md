@@ -46,6 +46,8 @@ me.say_hi()
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![JWT](https://img.shields.io/badge/jwt-ff69b4?style=flat-square&logo=jwt)
+![SHA1](https://img.shields.io/badge/sha1-black?style=flat-square&logo=sha1)
 
 
 
