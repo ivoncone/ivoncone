@@ -2,7 +2,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-coffeefairlady-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/coffeefairlady/)](https://twitter.com/coffeefairlady/)
 [![Instagram Badge](https://img.shields.io/badge/-posdatamexico-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/posdatamexico/)](https://instagram.com/posdatamexico)
-[![Google Badge](https://img.shields.io/badge/-googlecloud-yellow?style=plastic&logo=instagram&logoColor=white&link=https://www.cloudskillsboost.google/public_profiles/992305f6-f90c-4363-9441-be0426a8f7b8/badges/1134928)](https://www.cloudskillsboost.google/public_profiles/992305f6-f90c-4363-9441-be0426a8f7b8/badges/1134928)
+[![Google Badge](https://img.shields.io/badge/-googlecloud-yellow?style=plastic&logo=google&logoColor=white&link=https://www.cloudskillsboost.google/public_profiles/992305f6-f90c-4363-9441-be0426a8f7b8)](https://www.cloudskillsboost.google/public_profiles/992305f6-f90c-4363-9441-be0426a8f7b8)
 
 ```python
 #!/usr/bin/python
