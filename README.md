@@ -18,9 +18,9 @@ class BackendDeveloper:
         self.language_spoken = [ 'en_us', 'es_mx', 'fr-fr']
    
    def my_day(self):
-    self.working = ['coffeeshop', 'clothinstore', 'magazine']
-    self.studying = ['skills for women in tech']
-    self.beloved_things = ['reading'. 'cooking', 'writing fiction', 'hiking', 'photography', 'playing guitar']
+        self.working = ['coffeeshop', 'clothinstore', 'magazine']
+        self.studying = ['skills for women in tech']
+        self.beloved_things = ['reading'. 'cooking', 'writing fiction', 'hiking', 'photography', 'playing guitar']
 
     def say_hi(self):
         print("Thanks for dropping by, I hope to colaborate with you.")
