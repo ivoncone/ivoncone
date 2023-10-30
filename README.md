@@ -13,14 +13,15 @@ class BackendDeveloper:
 
     def __init__(self):
         self.name = 'Ivonne Cordero'
-        self.role = 'Backend developper'
+        self.alterego = 'coffee fair lady'
+        self.role = 'Backend developer'
         self.base_profession = 'Business Admnistration'
         self.language_spoken = [ 'en_us', 'es_mx', 'fr-fr']
    
    def my_day(self):
-        self.working = ['coffeeshop', 'clothinstore', 'magazine']
+        self.working = ['coffeeshop', 'coding', 'magazine', 'books']
         self.studying = ['skills for women in tech']
-        self.beloved_things = ['reading'. 'cooking', 'writing fiction', 'hiking', 'photography', 'playing guitar']
+        self.beloved_things = ['reading'. 'cooking', 'writing fiction', 'hiking', 'photography', 'playing guitar', 'barista', 'walking']
 
     def say_hi(self):
         print("Thanks for dropping by, I hope to colaborate with you.")
@@ -50,6 +51,7 @@ me.say_hi()
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![JWT](https://img.shields.io/badge/jwt-ff69b4?style=flat-square&logo=jwt)
 ![SHA1](https://img.shields.io/badge/sha1-black?style=flat-square&logo=sha1)
+![odoo](https://img.shields.io/badge/odoo-purple?style=flat-square&logo=odoo)
 
 
 
